@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.env
+.DS_Store
+
+# raw captures, frames and trained splats live outside git
+data/raw/
+data/processed/
+*.ply
+*.spz
+*.splat
+*.mp4
+*.mov

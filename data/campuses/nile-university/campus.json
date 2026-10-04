@@ -1,0 +1,10 @@
+{
+  "id": "nile-university",
+  "name": "Nile University of Nigeria",
+  "city": "Abuja",
+  "country": "NG",
+  "center": [7.4245, 9.0165],
+  "bounds": null,
+  "license": "TBD",
+  "schema_version": 0
+}

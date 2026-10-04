@@ -1,0 +1,13 @@
+name = "campus-navigator-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+# Bindings are added when the resources are created:
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "campus-navigator"
+# database_id = "<id>"
+#
+# [[r2_buckets]]
+# binding = "ASSETS"
+# bucket_name = "campus-navigator-assets"

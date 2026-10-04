@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": "campus-center-placeholder", "kind": "poi", "name": "Campus center (placeholder, approximate)", "category": "other" },
+      "geometry": { "type": "Point", "coordinates": [7.4245, 9.0165] }
+    }
+  ]
+}
